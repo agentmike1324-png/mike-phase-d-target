@@ -3,5 +3,5 @@ export function greet(name) {
 }
 
 export function farewell(name) {
-  return `TODO, ${name}`;
+  return `goodbye, ${name}`;
 }
