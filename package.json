@@ -1,0 +1,9 @@
+{
+  "name": "mike-phase-d-target",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/greet.test.js"
+  }
+}
